@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rubocop'
+gem 'rubycritic'
+gem 'sandi_meter'
+gem 'rspec' 
