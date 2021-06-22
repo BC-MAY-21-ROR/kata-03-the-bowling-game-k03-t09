@@ -1,6 +1,0 @@
-class Pin
-
-
-
-
-end
